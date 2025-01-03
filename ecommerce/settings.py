@@ -11,9 +11,9 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
 import os
+import environ
 from pathlib import Path
 from decouple import config
-import environ
 from dotenv import load_dotenv
 
 load_dotenv()
