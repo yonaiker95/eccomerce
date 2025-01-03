@@ -16,5 +16,4 @@ django-ckeditor
 gunicorn 
 uvicorn
 django-environ
-dotenv
 python-dotenv
